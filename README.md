@@ -12,19 +12,7 @@ The dataset was obtained from Kaggle and consists of CSV files containing inform
 
 The project includes Python scripts for loading CSV files into a SQL database and SQL queries for analyzing the dataset. The queries are designed to answer various questions related to paintings, museums, and artists.
 
-## Project Files
 
-- `loadDataToSQL.py`: Python script to load CSV files into the SQL database.
-- `queriesSolved.sql`: SQL Script for each query.
-
-
-## Running the Code
-
-1. **Load CSV files to SQL Database:**
-   - Execute the `loadDataToSQL.py` script to load CSV files into your SQL database.
-
-2. **Run SQL Queries:**
-   - Execute SQL queries from the `queriesSolved.sql` to gain insights from the dataset.
 
 ## Query Difficulty Levels
 
